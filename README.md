@@ -22,4 +22,4 @@
 ---
 
 ## Интересные статьи/каналы/документация
-https://pcbdesigner.ru/montazh-pechatnykh-plat/avtomaticheskaya-ustanovka-komponentov-na-pechatnuyu-platu-v-texnologii-poverxnostnogo-montazha.html
+https://pcbdesigner.ru/montazh-pechatnykh-plat/avtomaticheskaya-ustanovka-komponentov-na-pechatnuyu-platu-v-texnologii-poverxnostnogo-montazha.html - типы станочков для выполнения цели (2)
