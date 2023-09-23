@@ -41,3 +41,5 @@ https://pcbdesigner.ru/montazh-pechatnykh-plat/avtomaticheskaya-ustanovka-kompon
 https://www.youtube.com/watch?v=k0nbiK92c24&ab_channel=Rezonit - видосик с тех.процессом (хотя бы появилось примерное понимание того, как станок должен детальки ставить)
 
 https://umelyeruki.ru/tehnologicheskiy-protsess-izgotovleniya-stankov-chpu/ - Примерные очертания того, как должен выглядеть конечный план действий
+
+https://top3dshop.ru/blog/diy-cnc-machine-instruction.html#kak-sdelat-samodelnyy-stanok-s-chpu - Пример самодельного станка ЧПУ с расписанными этапами действий
