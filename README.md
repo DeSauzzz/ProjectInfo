@@ -39,3 +39,4 @@
 https://pcbdesigner.ru/montazh-pechatnykh-plat/avtomaticheskaya-ustanovka-komponentov-na-pechatnuyu-platu-v-texnologii-poverxnostnogo-montazha.html - типы станочков для выполнения цели (2)
 
 https://www.youtube.com/watch?v=k0nbiK92c24&ab_channel=Rezonit - видосик с тех.процессом (хотя бы появилось примерное понимание того, как станок должен детальки ставить)
+https://umelyeruki.ru/tehnologicheskiy-protsess-izgotovleniya-stankov-chpu/ - Примерные очертания того, как должен выглядеть конечный план действий
