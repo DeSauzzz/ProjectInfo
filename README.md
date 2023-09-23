@@ -43,3 +43,4 @@ https://www.youtube.com/watch?v=k0nbiK92c24&ab_channel=Rezonit - видосик 
 https://umelyeruki.ru/tehnologicheskiy-protsess-izgotovleniya-stankov-chpu/ - Примерные очертания того, как должен выглядеть конечный план действий
 
 https://top3dshop.ru/blog/diy-cnc-machine-instruction.html#kak-sdelat-samodelnyy-stanok-s-chpu - Пример самодельного станка ЧПУ с расписанными этапами действий
+ 
