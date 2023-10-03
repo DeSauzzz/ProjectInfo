@@ -52,6 +52,8 @@ https://umelyeruki.ru/tehnologicheskiy-protsess-izgotovleniya-stankov-chpu/ - П
 
 https://top3dshop.ru/blog/diy-cnc-machine-instruction.html#kak-sdelat-samodelnyy-stanok-s-chpu - Пример самодельного станка ЧПУ с расписанными этапами действий
 
+https://microtechnics.ru/osnovy-elektroniki-emitternyj-povtoritel/ - Еще один интересный сайт со статейками про компоненты
+
 https://www.ruselectronic.com/sitemap/ - Сайт по которому буду потихоньку учиться схемки собирать
 
 https://www.youtube.com/watch?v=5sm7IamDRac&list=PLVsbSzWGfeNTZiPhdXbfoYz_-iCtq0HuP&ab_channel=RevVit - Плейлист мужика, который херачит станок
